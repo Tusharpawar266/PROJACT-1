@@ -1,6 +1,7 @@
 # 📊 Sales Dashboard - Excel Project
 
-![Sales Dashboard Overview](images/dashboard_overview.png)
+[Sales Dashboard Overview]![Sales Dashboard Overview](https://github.com/user-attachments/assets/ad2ee36b-9b84-43d2-a31a-289bd005420d)
+
 
 ## 📌 Background and Overview
 
@@ -21,7 +22,10 @@ The data is organized in a structured table with the following key columns:
 - *Total Amount* – Auto-calculated (Quantity × Rate)
 - *Date* – Transaction date
 
-![Raw Data Structure](images/data_structure.png)
+[Raw Data Structure]![Data Structure]
+![Data Structure](https://github.com/user-attachments/assets/80814595-b13e-4663-9ebd-a7e05c03a52c)
+
+
 
 Additional calculated fields and pivot summaries are created to generate visual insights across time periods and product categories.
 
@@ -39,9 +43,10 @@ The dashboard provides a high-level summary of:
 
 Users can interact with *slicers* to filter data by date, item, or invoice, and view results instantly.
 
-![KPI Summary](images/kpi_summary.png)
+![KPI](https://github.com/user-attachments/assets/c19204f3-6a9d-4654-a57f-6ff7e526b83a)
 
----
+
+   ---
 
 ## 🔍 Insight Deep Dive
 
@@ -53,8 +58,9 @@ The dashboard reveals meaningful insights like:
 - 📉 Identification of *slow-moving or low-selling products*
 - 📊 *Fluctuations in average unit price* (suggesting potential pricing issues)
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)  
-![Top Selling Items](images/top_items_chart.png)
+[Monthly Sales Trend]  ![Monthly Sales Trend](https://github.com/user-attachments/assets/7fd72118-caa8-44fa-8180-b549f7d6167f)
+
+
 
 ---
 
@@ -68,13 +74,4 @@ Based on the data analysis:
 4. ⚠️ *Set reorder alerts* using historical demand
 5. 🔁 *Automate reporting* to ensure regular performance tracking
 
-![Sales Recommendations](images/recommendations.png)
-
----
-
-## 🛠️ Requirements
-
-- Microsoft Excel 2016 or newer
-- Basic understanding of Pivot Tables and Charts
-- Enable Macros and Data Refresh for optimal use
    
